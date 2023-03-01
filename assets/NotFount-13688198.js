@@ -1,1 +1,0 @@
-import{_ as o,r as e,o as r,k as n,w as c,g as s}from"./index-f4b11849.js";const a={};function _(l,u){const t=e("router-link");return r(),n(t,{to:"/product-list"},{default:c(()=>[s("回產品列表~~~")]),_:1})}const i=o(a,[["render",_]]);export{i as default};

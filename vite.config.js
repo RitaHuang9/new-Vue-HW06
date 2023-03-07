@@ -6,7 +6,7 @@ import vue from "@vitejs/plugin-vue";
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [vue()],
-  base: '/Vue-HW06/',
+  base: 'new-Vue-HW06/',
   resolve: {
     alias: {
       "@": fileURLToPath(new URL("./src", import.meta.url))

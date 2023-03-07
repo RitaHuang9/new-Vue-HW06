@@ -22,9 +22,9 @@ git commit -m 'update'
 
 # 選擇部署到main還是分支
 # if you are deploying to https://github.com/RitaHuang9/Vue-HW06.git
-# git push -f https://github.com/RitaHuang9/Vue-HW06.git main
+# git push -f https://github.com/RitaHuang9/new-Vue-HW06.git main
 
 # if you are deploying to https://github.com/RitaHuang9/Vue-HW06.git 
-git push -f https://github.com/RitaHuang9/Vue-HW06.git main:gh-pages
+git push -f https://github.com/RitaHuang9/new-Vue-HW06.git main:gh-pages
 
 cd -
